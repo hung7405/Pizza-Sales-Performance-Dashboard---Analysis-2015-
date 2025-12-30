@@ -15,7 +15,8 @@ This project provides a comprehensive analysis of a pizza restaurant's sales per
 - **Operational Insights**: Peak hour analysis for staffing optimization.
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](path_to_your_screenshot.png)
+[Pizza Dashboard Page 1](https://app.powerbi.com/groups/me/reports/8a1065af-1c14-4f8b-969a-1bddd0201d31/9b5609e4a79b5fb8e004?experience=power-bi)
+[Pizza Dashboard Page 2](https://app.powerbi.com/groups/me/reports/8a1065af-1c14-4f8b-969a-1bddd0201d31/8a7afa7f76a3d85944f5?experience=power-bi)
 
 ## 📂 How to use
 1. Download the `.pbix` file.
